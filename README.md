@@ -1,5 +1,6 @@
 # Barcode in Java
-Barcode reader samples for java using google.zxing & opencv
+
+Barcode reader samples for java using **google.zxing & opencv**
 
 **BarcodeGenerator** - java sample to generate barcodes and out put barcode as png file in same dir
 
